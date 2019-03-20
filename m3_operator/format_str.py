@@ -1,0 +1,13 @@
+print("{0} is {1}'s wife".format('Maaya', 'Kanae'))
+print("{1} is {0}'s wife".format('Kanae', 'Maaya'))
+print("{} is {}'s wife".format('Maaya', 'Kanae'))
+print("{wife} is {name}'s wife".format(wife = 'Maaya', name = 'Kanae'))
+print("{wife} is {name}'s wife".format(name = 'Kanae', wife = 'Maaya'))
+print("{0} is {name}'s wife\n".format('Maaya', name = 'Kanae'))
+
+print('{0} is {1} years old! {2}'.format('Turku', 46, 4545.4545))
+print('{0} is {1} years old! {2:.1f}'.format('Turku', 46, 4545.4545))
+print('{:<10s} is {} years old! {}'.format('Turku', 46, 4545.4545))
+print('{:>10s} is {} years old! {}'.format('Turku', 46, 4545.4545))
+print('{:^10s} is {} years old! {}'.format('Turku', 46, 4545.4545))
+print('{:*^10s} is {} years old! {}'.format('Turku', 46, 4545.4545))

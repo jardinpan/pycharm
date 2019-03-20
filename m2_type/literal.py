@@ -7,6 +7,10 @@ print(x)
 x = 0x1DB
 print(x)
 
+x = 'A'
+print(x)
+x = u'\u0041'
+print(x)
 a = bin(475)
 print(a)
 a = oct(475)
