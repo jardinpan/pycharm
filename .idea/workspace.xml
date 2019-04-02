@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92671d50-f734-4db8-94d7-ca33c24a1460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/m5_str/str_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m5_str/str_func2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6_function/factorialzzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6_function/simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6_function/total.py" afterDir="false" />
+    <list default="true" id="92671d50-f734-4db8-94d7-ca33c24a1460" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/m6_function/arbitrary_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/default_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/keyword_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/multi_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/mymath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/mymath_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/nonlocal_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/recursive_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6_function/variable_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/list_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/one_dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/tri_dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/tri_dimension_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/two_dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7_list/two_dimension_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/RRRRR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/binary_gap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/binary_gap_no_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/coding_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/numpy_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/尋找矩陣中最小正整數.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5_str/str1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5_str/str1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6_function/factorialzzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6_function/factorialzzz.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,73 +38,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m4_flow/nine_nine.py">
+        <entry file="file://$PROJECT_DIR$/self_practice/RRRRR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m4_flow/iteration.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="686">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m5_str/str1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m5_str/str_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m5_str/str_func2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m6_function/simple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m6_function/total.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="66">
+              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/m6_function/factorialzzz.py">
+        <entry file="file://$PROJECT_DIR$/m7_list/tri_dimension.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="31">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m7_list/tri_dimension_random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -98,6 +72,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>subtraction</find>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,7 +94,39 @@
         <option value="$PROJECT_DIR$/m5_str/str_func2.py" />
         <option value="$PROJECT_DIR$/m6_function/simple.py" />
         <option value="$PROJECT_DIR$/m6_function/total.py" />
+        <option value="$PROJECT_DIR$/self_practice/尋找矩陣中最小正整數.py" />
+        <option value="$PROJECT_DIR$/self_practice/numpy.py" />
+        <option value="$PROJECT_DIR$/self_practice/numpy_practice.py" />
+        <option value="$PROJECT_DIR$/self_practice/binary_gap_no_numpy_alter.py" />
+        <option value="$PROJECT_DIR$/self_practice/jsdklfjsdlkfjds.py" />
+        <option value="$PROJECT_DIR$/self_practice/RRRRRRRRRR.py" />
+        <option value="$PROJECT_DIR$/self_practice/temp.py" />
+        <option value="$PROJECT_DIR$/m6_function/multi_return.py" />
+        <option value="$PROJECT_DIR$/m6_function/keyword_args.py" />
+        <option value="$PROJECT_DIR$/m6_function/default_args.py" />
+        <option value="$PROJECT_DIR$/self_practice/binary_gap_no_numpy.py" />
+        <option value="$PROJECT_DIR$/m6_function/arbitrary_args.py" />
+        <option value="$PROJECT_DIR$/m6_function/variable_scope.py" />
+        <option value="$PROJECT_DIR$/m6_function/recursive_function.py" />
+        <option value="$PROJECT_DIR$/m6_function/mymath.py" />
+        <option value="$PROJECT_DIR$/m6_function/testooo.py" />
+        <option value="$PROJECT_DIR$/m6_function/mymath_call.py" />
+        <option value="$PROJECT_DIR$/m7_list/__init__.py" />
+        <option value="$PROJECT_DIR$/self_practice/coding_test.py" />
+        <option value="$PROJECT_DIR$/m7_list/one_dimension.py" />
+        <option value="$PROJECT_DIR$/m7_list/list_func.py" />
+        <option value="$PROJECT_DIR$/m7_list/slice.py" />
+        <option value="$PROJECT_DIR$/m7_list/for_loop.py" />
+        <option value="$PROJECT_DIR$/m6_function/nonlocal_variable.py" />
+        <option value="$PROJECT_DIR$/m7_list/split.py" />
+        <option value="$PROJECT_DIR$/m7_list/two_dimension.py" />
         <option value="$PROJECT_DIR$/m6_function/factorialzzz.py" />
+        <option value="$PROJECT_DIR$/self_practice/RRRRR.py" />
+        <option value="$PROJECT_DIR$/m7_list/rjrjrjjrrj.py" />
+        <option value="$PROJECT_DIR$/m7_list/two_dimension_random.py" />
+        <option value="$PROJECT_DIR$/m7_list/tri_dimension.py" />
+        <option value="$PROJECT_DIR$/m7_list/tri_dimension_random.py" />
+        <option value="$PROJECT_DIR$/self_practice/binary_gap.py" />
       </list>
     </option>
   </component>
@@ -132,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,27 +154,36 @@
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="m3_operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="m5_str" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="m6_function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="m7_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="pycharm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework" />
-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="workspace" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="workspace" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.factorialzzz">
-    <configuration name="factorialzzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.binary_gap">
+    <configuration name="binary_gap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m6_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m6_function/factorialzzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/binary_gap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tri_dimension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m6_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m7_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m6_function/simple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m7_list/tri_dimension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tri_dimension_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m5_str" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m7_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m5_str/str_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m7_list/tri_dimension_random.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_func2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="two_dimension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m5_str" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m7_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m5_str/str_func2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m7_list/two_dimension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="total" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="two_dimension_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m6_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m7_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m6_function/total.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m7_list/two_dimension_random.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,16 +305,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.factorialzzz" />
-        <item itemvalue="Python.total" />
-        <item itemvalue="Python.simple" />
-        <item itemvalue="Python.str_func2" />
-        <item itemvalue="Python.str_func" />
+        <item itemvalue="Python.binary_gap" />
+        <item itemvalue="Python.tri_dimension_random" />
+        <item itemvalue="Python.tri_dimension" />
+        <item itemvalue="Python.two_dimension" />
+        <item itemvalue="Python.two_dimension_random" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Big data\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -304,17 +324,25 @@
       <option name="presentableId" value="Default" />
       <updated>1553045131220</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1553070268355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553070268355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,6 +355,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/m3_operato/arithmetic.py" />
@@ -391,32 +423,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m4_flow/iteration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
+        <state relative-caret-position="1457">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m5_str/str1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="682">
           <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/binary_gap_no_numpy_alter.py" />
     <entry file="file://$PROJECT_DIR$/m5_str/str_func.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="1085">
           <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../homework/homework2/7_rabbit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m5_str/str_func2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
+        <state relative-caret-position="682">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/jsdklfjsdlkfjds.py" />
+    <entry file="file://$PROJECT_DIR$/self_practice/RRRRRRRRRR.py" />
     <entry file="file://$PROJECT_DIR$/m6_function/simple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
@@ -427,14 +469,190 @@
     <entry file="file://$PROJECT_DIR$/m6_function/total.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/尋找矩陣中最小正整數.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/default_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/multi_return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/keyword_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="69" lean-forward="true" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/temp.py" />
+    <entry file="file://$PROJECT_DIR$/self_practice/numpy_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/binary_gap_no_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/arbitrary_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/recursive_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/mymath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/mymath_call.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/coding_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/one_dimension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m6_function/nonlocal_variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/rjrjrjjrrj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/for_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m6_function/factorialzzz.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/two_dimension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/list_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/two_dimension_random.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/RRRRR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/tri_dimension_random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/self_practice/binary_gap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m7_list/tri_dimension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
