@@ -20,29 +20,23 @@ class Account:
                 raise ValueError
         except ValueError:
             print('餘額不足')
+    def __str__(self):
+        return ('number:{0}, name:{1}, balance:{2}'.format(self.number, self.name, self.balance))
 
 def main():
-    acc = Account('57', 'Maaya', 1515)
-    print(acc.number)
-    print(acc.name)
-
-    amount = int(input('輸入存款金額'))
-    acc.deposit(amount)
+    acc = Account('1515', 'LiSA')
+    acc.deposit(50)
     print(acc.balance)
-    amount = int(input('輸入提款金額'))
-    acc.withdraw(amount)
+    acc.withdraw(51)
     print(acc.balance)
+    print(acc, end='\n\n')
 
-    acc1 = Account('624', 'LiSA', 7878)
-    print(acc1.number)
-    print(acc1.name)
-
-    amount = int(input('輸入存款金額'))
-    acc1.deposit(amount)
+    acc1 = Account('1515', 'LiSA', 624)
+    acc1.deposit(68)
     print(acc1.balance)
-    amount = int(input('輸入提款金額'))
-    acc1.withdraw(amount)
+    acc1.withdraw(800)
     print(acc1.balance)
-    print(acc) #會顯示物件的屬性，須以__str__來設定回傳格式
+    print(acc1, end='\n\n')
 
-main()
+if __name__ == '__main__': #確保被其他import時也不會執行main()
+    main()
